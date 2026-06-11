@@ -23,11 +23,6 @@
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=raj11gautam&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -37,11 +32,11 @@
 ## 🌐 Coding Profiles
 
 <p align="center">
-<a href="YOUR_LEETCODE">
+<a href="[YOUR_LEETCODE](https://leetcode.com/u/Raj112128/)">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="YOUR_GFG">
+<a href="[YOUR_GFG](https://www.geeksforgeeks.org/profile/rajshwetnkyv)">
 <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
@@ -87,7 +82,7 @@
 ## 💻 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/Raj112128?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 ---
