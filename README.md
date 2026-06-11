@@ -30,18 +30,27 @@
 <img src="https://komarev.com/ghpvc/?username=raj11gautam&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj11gautam&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj11gautam&layout=compact&theme=tokyonight&hide_border=true"/>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raj11gautam/raj11gautam/output/github-contribution-grid-snake.svg" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raj11gautam&theme=tokyonight&hide_border=true"/>
-</p>
+## 🌐 Coding Profiles
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest"/>
+<a href="YOUR_LEETCODE">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="YOUR_GFG">
+<img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="YOUR_CODECHEF">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
+</a>
 </p>
 
 ## 🛠️ Tech Stack
@@ -57,11 +66,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj11gautam&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj11gautam&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj11gautam&layout=compact&theme=tokyonight"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj11gautam&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -69,9 +76,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raj11gautam&theme=tokyonight"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raj11gautam&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -79,19 +84,13 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=raj11gautam&theme=tokyonight&row=1&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=raj11gautam&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
-
----
 
 ## 💻 LeetCode Stats
 
 <p align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma"/>
-
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 ---
@@ -154,3 +153,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  <p align="center">
+⚡ Code. Learn. Build. Repeat.
+</p>
