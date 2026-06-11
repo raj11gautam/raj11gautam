@@ -32,17 +32,19 @@
 ## 🌐 Coding Profiles
 
 <p align="center">
-<a href="[YOUR_LEETCODE](https://leetcode.com/u/Raj112128/)">
+
+<a href="https://leetcode.com/u/Raj112128/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="[YOUR_GFG](https://www.geeksforgeeks.org/profile/rajshwetnkyv)">
+<a href="https://www.geeksforgeeks.org/profile/rajshwetnkyv/" target="_blank">
 <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
-<a href="YOUR_CODECHEF">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
 </a>
+
 </p>
 
 ## 🛠️ Tech Stack
@@ -81,14 +83,8 @@
 
 ## 💻 LeetCode Stats
 
-## 💻 LeetCode Journey
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Raj112128?theme=dark&font=Nunito&ext=contest" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-261%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode"/>
 </p>
 ---
 
@@ -119,10 +115,28 @@ Complete DSA Solutions in Java
 
 ## 🌐 Connect With Me
 
+<h2 align="center">🤝 Connect With Me</h2>
+
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-LinkedIn
+<a href="https://www.linkedin.com/in/raj-shwet-gautam-54a634348/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/raj11gautam">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://leetcode.com/u/Raj112128/">
+<img width="48" src="https://cdn.simpleicons.org/leetcode" />
+</a>
+
+<a href="https://www.instagram.com/raj.gautam_11/">
+<img width="48" src="https://cdn.simpleicons.org/instagram" />
+</a>
+
+<a href="https://www.facebook.com/raj.gautam.432472">
+<img width="48" src="https://cdn.simpleicons.org/facebook" />
 </a>
 
 </p>
