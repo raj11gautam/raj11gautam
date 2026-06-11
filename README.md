@@ -84,9 +84,17 @@
 ## 💻 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Raj112128?theme=dark&font=Karma&ext=contest">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQ1Y3B4eXF5aW1jZ3B0MDF5NmZtZXE4eG4wdjI1Z3VwMnJ6dnhvZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500">
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=261+LeetCode+Problems+Solved;114+Medium+Questions;Preparing+For+Placements;Daily+DSA+Practice" />
+</p>
+--------------
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Raj112128?theme=dark&font=Karma&ext=contest">
+</p>
+--------------
 <p align="center">
 
 <img src="https://img.shields.io/badge/Solved-261-orange?style=for-the-badge&logo=leetcode"/>
