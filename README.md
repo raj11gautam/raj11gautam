@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Raj Gautam Banner" width="100%">
+</p>
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Raj Gautam</h1>
 
@@ -19,6 +22,27 @@
 - 📍 India
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Java+Developer;Deep+Learning+Enthusiast;Problem+Solver;Building+Intelligent+Applications" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=raj11gautam&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj11gautam&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj11gautam&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raj11gautam&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest"/>
+</p>
 
 ## 🛠️ Tech Stack
 
