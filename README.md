@@ -88,7 +88,15 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/raj11gautam/raj11gautam/output/github-contribution-grid-snake.svg">
+
+<img src="https://img.shields.io/badge/Solved-261-orange?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/Contest_Rating-1472-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Medium-114-yellow?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hard-10-red?style=for-the-badge"/>
+
 </p>
 ---
 
