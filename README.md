@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./banner.png" alt="Raj Gautam Banner" width="100%">
 </p>
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Raj Gautam</h1>
 
 <h3 align="center">AI & Machine Learning Enthusiast | Java Developer | Problem Solver</h3>
@@ -9,8 +8,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Java+Developer;Deep+Learning+Enthusiast;Problem+Solver;Building+Intelligent+Applications" />
 </p>
-
----
 
 ## 🚀 About Me
 
@@ -20,8 +17,6 @@
 - 🚀 Building AI Applications
 - 🎯 Goal: Become an AI Engineer
 - 📍 India
-
----
 
 ## 🐍 Contribution Snake
 
@@ -55,8 +50,6 @@
 
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -65,15 +58,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj11gautam&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raj11gautam&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
 <!--## 🏆 GitHub Trophies
 
@@ -82,19 +72,14 @@
 </p> -->
 
 ## 💻 LeetCode Stats
-
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQ1Y3B4eXF5aW1jZ3B0MDF5NmZtZXE4eG4wdjI1Z3VwMnJ6dnhvZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500">
-</p>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=261+LeetCode+Problems+Solved;114+Medium+Questions;Preparing+For+Placements;Daily+DSA+Practice" />
 </p>
---------------
+
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/Raj112128?theme=dark&font=Karma&ext=contest">
 </p>
---------------
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/Solved-261-orange?style=for-the-badge&logo=leetcode"/>
@@ -106,7 +91,6 @@
 <img src="https://img.shields.io/badge/Hard-10-red?style=for-the-badge"/>
 
 </p>
----
 
 ## 📌 Featured Projects
 
@@ -125,13 +109,10 @@ Deep Learning based ECG Analysis
 ### 📚 Java DSA Placement Prep
 Complete DSA Solutions in Java
 
----
 
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj11gautam&theme=tokyo-night"/>
-
----
 
 ## 🌐 Connect With Me
 
@@ -160,8 +141,6 @@ Complete DSA Solutions in Java
 </a>
 
 </p>
-
----
 
 ## 👀 Profile Visitors
 
