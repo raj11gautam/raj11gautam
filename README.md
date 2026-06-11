@@ -83,14 +83,12 @@
 
 ## 💻 LeetCode Stats
 
-<h2 align="center">🏆 Competitive Programming</h2>
-
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Raj112128?theme=dark&font=Karma&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/Raj112128?theme=dark&font=Karma&ext=contest">
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=261+Problems+Solved;Contest+Rating+1472;Java+DSA+Learner;Future+AI+Engineer" />
+<img src="https://raw.githubusercontent.com/raj11gautam/raj11gautam/output/github-contribution-grid-snake.svg">
 </p>
 ---
 
