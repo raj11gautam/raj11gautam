@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Raj Gautam Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Raj Gautam</h1>
 
 <h3 align="center">AI & Machine Learning Enthusiast | Java Developer | Problem Solver</h3>
